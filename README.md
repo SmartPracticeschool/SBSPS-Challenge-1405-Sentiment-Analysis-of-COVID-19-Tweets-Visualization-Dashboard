@@ -7,3 +7,12 @@ This is repositroy build for IBM Hack Challenge 2020 by Smartinternz.
 The sentiment analysis of Indians after the extension of lockdown announcements to be analyzed with the relevant #tags on twitter and build a predictive analytics model to understand the behavior of people if the lockdown is further extended.
 Also develop a dashboard with visualization of people reaction to the govt announcements on lockdown extension
 
+# Team Details
+
+##### Team Name : Team Supreme
+##### Team Members : 
+
+Hashim Irfan Ali M (Team Lead) - https://github.com/iamhashimirfan
+Hanif Feroz S - 
+Vignesh P -  
+Praveen Kumar - 
